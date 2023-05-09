@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-08T19:45:56.588Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="NoApJrsQPVQIngacPcny" version="21.2.9" type="device">
+<mxfile host="app.diagrams.net" modified="2023-05-09T17:45:04.862Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="mpkNpxBdphrFxzJibu4r" version="21.2.9" type="device">
   <diagram name="Σελίδα-1" id="_hZ1gId-OVQhcvWA_aiZ">
     <mxGraphModel dx="2133" dy="3173" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -20,7 +20,7 @@
           <mxGeometry x="510" y="-1220" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="gDzTRsx5LZbyPDXzQz8e-8" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
-          <mxGeometry x="-530" y="-1030" width="10" height="650" as="geometry" />
+          <mxGeometry x="-530" y="-1030" width="10" height="540" as="geometry" />
         </mxCell>
         <mxCell id="gDzTRsx5LZbyPDXzQz8e-9" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -167,7 +167,7 @@
           <mxGeometry x="-380" y="-930" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gDzTRsx5LZbyPDXzQz8e-49" value="Events" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="40" y="-1090" width="80" height="80" as="geometry" />
+          <mxGeometry x="30" y="-1150" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="gDzTRsx5LZbyPDXzQz8e-50" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="70" y="-990" width="10" height="190" as="geometry" />
@@ -223,6 +223,9 @@
         </mxCell>
         <mxCell id="gDzTRsx5LZbyPDXzQz8e-72" value="alternative" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" parent="1" vertex="1">
           <mxGeometry x="120" y="-725" width="450" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="aKNN11iwePuZtYDvYKWx-1" value=":Events" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="-1055" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

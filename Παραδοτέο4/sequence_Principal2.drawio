@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-08T20:00:50.265Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="75P9vIDZjxqr8WzS_K7-" version="21.2.9" type="device">
+<mxfile host="app.diagrams.net" modified="2023-05-09T17:47:54.793Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="tDSqBj6ON65CbAaFHfem" version="21.2.9" type="device">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
-    <mxGraphModel dx="2156" dy="835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1306" dy="835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -49,7 +49,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ybt9tuzpWEYedOXrQiWp-9" value="Programm" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+        <mxCell id="Ybt9tuzpWEYedOXrQiWp-9" value="Program" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="880" y="260" width="100" height="780" as="geometry" />
         </mxCell>
         <mxCell id="Ybt9tuzpWEYedOXrQiWp-20" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="Ybt9tuzpWEYedOXrQiWp-9" vertex="1">
@@ -153,13 +153,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6W1vj8rR3M6X1Fikw8dW-1" value="&lt;div title=&quot;Page 13&quot; class=&quot;page&quot;&gt;&#xa;   &lt;div class=&quot;layoutArea&quot;&gt;&#xa;    &lt;div class=&quot;column&quot;&gt;&#xa;     &lt;p&gt;&lt;span style=&quot;font-size: 12.000000pt; font-family: &#39;Calibri&#39;; font-weight: 700&quot;&gt;1. &lt;/span&gt;&lt;span style=&quot;font-size: 12.000000pt; font-family: &#39;Calibri&#39;&quot;&gt;Ο διευθυντής επιλέγει την καρτέλα «Επικοινωνία» για να επικοινωνήσει με&#xa;κάποιον καθηγητή.&#xa;&lt;/span&gt;&lt;/p&gt;&#xa;     &lt;p&gt;&lt;span style=&quot;font-size: 12.000000pt; font-family: &#39;Calibri&#39;; font-weight: 700&quot;&gt;2. &lt;/span&gt;&lt;span style=&quot;font-size: 12.000000pt; font-family: &#39;Calibri&#39;&quot;&gt;Το σύστημα, εμφανίζει μια λίστα με τα διαθέσιμα στοιχεία των καθηγητών.&#xa;&lt;/span&gt;&lt;span style=&quot;font-size: 12.000000pt; font-family: &#39;Calibri&#39;; font-weight: 700&quot;&gt;3. &lt;/span&gt;&lt;span style=&quot;font-size: 12.000000pt; font-family: &#39;Calibri&#39;&quot;&gt;Ο διευθυντής επιλέγει το πρόσωπο με το οποίο θέλει να επικοινωνήσει από&#xa;&lt;/span&gt;&lt;/p&gt;&#xa;     &lt;p&gt;&lt;span style=&quot;font-size: 12.000000pt; font-family: &#39;Calibri&#39;&quot;&gt;την λίστα.&#xa;&lt;/span&gt;&lt;/p&gt;&#xa;     &lt;p&gt;&lt;span style=&quot;font-size: 12.000000pt; font-family: &#39;Calibri&#39;; font-weight: 700&quot;&gt;4. &lt;/span&gt;&lt;span style=&quot;font-size: 12.000000pt; font-family: &#39;Calibri&#39;&quot;&gt;Το σύστημα εμφανίζει μια φόρμα με δυνατότητα συμπλήρωσης του λόγου&#xa;της επικοινωνίας και δυνατότητα συνάντησης κάποια συγκεκριμένη ημερομηνία&#xa;και ώρα.&#xa;&lt;/span&gt;&lt;/p&gt;&#xa;     &lt;p&gt;&lt;span style=&quot;font-size: 12.000000pt; font-family: &#39;Calibri&#39;; font-weight: 700&quot;&gt;5. &lt;/span&gt;&lt;span style=&quot;font-size: 12.000000pt; font-family: &#39;Calibri&#39;&quot;&gt;Ο διευθυντής συμπληρώνει τα παραπάνω πεδία και επιλέγει αποστολή&#xa;ειδοποίησης στον καθηγητή .&#xa;&lt;/span&gt;&lt;/p&gt;&#xa;     &lt;p&gt;&lt;span style=&quot;font-size: 12.000000pt; font-family: &#39;Calibri&#39;; font-weight: 700&quot;&gt;6. &lt;/span&gt;&lt;span style=&quot;font-size: 12.000000pt; font-family: &#39;Calibri&#39;&quot;&gt;Το σύστημα ενημερώνει τον καθηγητή και για την επικύρωση της συνάντησης&#xa;περιμένει την απάντηση του.&#xa;&lt;/span&gt;&lt;/p&gt;&#xa;     &lt;p&gt;&lt;span style=&quot;font-size: 12.000000pt; font-family: &#39;Calibri&#39;; font-weight: 700&quot;&gt;7. &lt;/span&gt;&lt;span style=&quot;font-size: 12.000000pt; font-family: &#39;Calibri&#39;&quot;&gt;Με την θετική απάντηση του καθηγητή η συνάντηση επικυρώνεται, το&#xa;σύστημα εμφανίζει κατάλληλη ειδοποίηση και η συνάντηση προστίθεται στο&#xa;πρόγραμμα του διευθυντή .&#xa;&lt;/span&gt;&lt;/p&gt;&#xa;    &lt;/div&gt;&#xa;   &lt;/div&gt;&#xa;  &lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-650" y="230" width="560" height="790" as="geometry" />
+        <mxCell id="6P90j5t4SIVctreCpfZ0-2" value="Teacher" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="550" y="280" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="6P90j5t4SIVctreCpfZ0-2" value="Teacher" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="330" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="6P90j5t4SIVctreCpfZ0-7" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;dashed=1;" edge="1" parent="1" source="6P90j5t4SIVctreCpfZ0-3" target="Ybt9tuzpWEYedOXrQiWp-14">
+        <mxCell id="6P90j5t4SIVctreCpfZ0-7" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;dashed=1;" parent="1" source="6P90j5t4SIVctreCpfZ0-3" target="Ybt9tuzpWEYedOXrQiWp-14" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="580" y="500" as="sourcePoint" />
             <Array as="points">
@@ -168,19 +165,22 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="6P90j5t4SIVctreCpfZ0-3" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+        <mxCell id="6P90j5t4SIVctreCpfZ0-3" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="585" y="450" width="10" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="6P90j5t4SIVctreCpfZ0-5" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;" edge="1" parent="1" source="Ybt9tuzpWEYedOXrQiWp-14">
+        <mxCell id="6P90j5t4SIVctreCpfZ0-5" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;" parent="1" source="Ybt9tuzpWEYedOXrQiWp-14" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="580" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6P90j5t4SIVctreCpfZ0-6" value="getTeacher()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="6P90j5t4SIVctreCpfZ0-6" value="getTeacher()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="480" y="450" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6P90j5t4SIVctreCpfZ0-10" value="returnTeacher()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="6P90j5t4SIVctreCpfZ0-10" value="returnTeacher()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="475" y="480" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="71DY4ZkfKzl6vgzVzHSP-1" value=":Teacher" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="370" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

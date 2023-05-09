@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-09T12:48:59.721Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="5RzRB-Vto1pc1Ca0WS24" version="21.2.9" type="device">
+<mxfile host="app.diagrams.net" modified="2023-05-09T17:56:17.218Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="hbcIedDbiESV6sEStYnC" version="21.2.9" type="device">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
-    <mxGraphModel dx="3856" dy="3035" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3006" dy="3035" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -123,7 +123,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bFteDbxGEWxdoh9k_PVV-4" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1" target="X4Or_-CTehJWZhnpmye0-38">
+        <mxCell id="bFteDbxGEWxdoh9k_PVV-4" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" target="X4Or_-CTehJWZhnpmye0-38" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-1130" y="-1590" as="sourcePoint" />
             <mxPoint x="-780" y="-1590" as="targetPoint" />
@@ -200,16 +200,16 @@
         <mxCell id="bFteDbxGEWxdoh9k_PVV-24" value=":&quot;Statistics don&#39;t exist for this course&quot; screen" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-630" y="-1560" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Xsc2XHszx8IajezIhbI2-5" value="Courses" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Xsc2XHszx8IajezIhbI2-5" value="Courses" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1070" y="-1930" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Xsc2XHszx8IajezIhbI2-6" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+        <mxCell id="Xsc2XHszx8IajezIhbI2-6" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="-1060" y="-1800" width="10" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Xsc2XHszx8IajezIhbI2-8" value=":Courses" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Xsc2XHszx8IajezIhbI2-8" value=":Courses" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1085" y="-1840" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Xsc2XHszx8IajezIhbI2-9" value="returnCourseStatistics()" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="Xsc2XHszx8IajezIhbI2-9" value="returnCourseStatistics()" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" edge="1">
           <mxGeometry x="-0.1111" y="-10" relative="1" as="geometry">
             <mxPoint x="-940" y="-1650" as="sourcePoint" />
             <mxPoint x="-1130" y="-1650" as="targetPoint" />
@@ -220,7 +220,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Xsc2XHszx8IajezIhbI2-11" value="returnToList()" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="Xsc2XHszx8IajezIhbI2-11" value="returnToList()" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" edge="1">
           <mxGeometry x="-0.1268" relative="1" as="geometry">
             <mxPoint x="-775" y="-1560" as="sourcePoint" />
             <mxPoint x="-1130" y="-1560" as="targetPoint" />
@@ -230,9 +230,6 @@
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="Xsc2XHszx8IajezIhbI2-12" value="&lt;div title=&quot;Page 17&quot; class=&quot;page&quot;&gt;&#xa;			&lt;div class=&quot;layoutArea&quot;&gt;&#xa;				&lt;div class=&quot;column&quot;&gt;&#xa;					&lt;p&gt;&lt;span style=&quot;font-size: 12.000000pt; font-family: &#39;Calibri&#39;; font-weight: 700&quot;&gt;1.1 &lt;/span&gt;&lt;span style=&quot;font-size: 12.000000pt; font-family: &#39;Calibri&#39;&quot;&gt;Στο βήμα 5, αν στο μάθημα δεν έχουν εισαχθεί ακόμα στατιστικά το σύστημα&#xa;&lt;/span&gt;&lt;/p&gt;&#xa;					&lt;p&gt;&lt;span style=&quot;font-size: 12.000000pt; font-family: &#39;Calibri&#39;&quot;&gt;εμφανίζει αντίστοιχο μήνυμα.&#xa;&lt;/span&gt;&lt;/p&gt;&#xa;					&lt;p&gt;&lt;span style=&quot;font-size: 12.000000pt; font-family: &#39;Calibri&#39;; font-weight: 700&quot;&gt;1.2 &lt;/span&gt;&lt;span style=&quot;font-size: 12.000000pt; font-family: &#39;Calibri&#39;&quot;&gt;Ο Γονέας επιστρέφει στην λίστα με τα μαθήματα, για να δηλώσει επόμενη&#xa;προβολή στατιστικών σε άλλο μάθημα.&#xa;&lt;/span&gt;&lt;/p&gt;&#xa;				&lt;/div&gt;&#xa;			&lt;/div&gt;&#xa;		&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2230" y="-1840" width="560" height="330" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
