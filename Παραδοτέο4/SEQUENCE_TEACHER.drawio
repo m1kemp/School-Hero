@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-07T15:53:54.709Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="MjQbpnGbhBSR9iet1-0V" version="21.2.9" type="device">
+<mxfile host="app.diagrams.net" modified="2023-05-09T17:30:35.773Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="CI5bx4X2UE7OOlcjmJrZ" version="21.2.9" type="device">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
-    <mxGraphModel dx="2156" dy="835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1306" dy="835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -54,9 +54,6 @@
             <mxPoint x="670" y="450" as="sourcePoint" />
             <mxPoint x="770" y="400" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="k5DyvnG_jxrRPJMY_Sv5-20" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;1. Ανοίγει την καρτέλα ‘Διορθώσεις Γραπτών’ για να ανεβάσει κάποιο διορθωμένο &lt;br/&gt;&lt;br&gt;γραπτό.&lt;br/&gt;&lt;br&gt;2. Το σύστημα του παρουσιάζει τα διαθέσιμα μαθήματα για κάθε τάξη ,τα οποία &lt;br/&gt;&lt;br&gt;διδάσκει και μπορεί να ανεβάσει βαθμό.&lt;br/&gt;&lt;br&gt;3. Ο καθηγητής επιλέγει το μάθημα στο οποίο θέλει να ανεβάσει βαθμό και γραπτό.&lt;br/&gt;&lt;br&gt;4. Το σύστημα εμφανίζει λίστα με τα στοιχεία των μαθητών, που παρακολουθούν το &lt;br/&gt;&lt;br&gt;μάθημα.&lt;br/&gt;&lt;br&gt;5. Ο καθηγητής επιλέγει τον μαθητή στον οποίο θέλει να ανεβάσει τον βαθμό και το &lt;br/&gt;&lt;br&gt;γραπτό του.&lt;br/&gt;&lt;br&gt;6. Το σύστημα εμφανίζει την επιλογή ‘Ανέβασμα αρχείου’, όπου η εφαρμογή &lt;br/&gt;&lt;br&gt;μπορεί να δεχτεί αρχεία σε μορφότυπα PDF ή Word.&lt;br/&gt;&lt;br&gt;7. Ο καθηγητής επιλέγει το αρχείο με το διορθωμένο γραπτό που θέλει να ανεβάσει &lt;br/&gt;&lt;br&gt;για το συγκεκριμένο μάθημα και μαθητή.&lt;br/&gt;&lt;br&gt;8.Το σύστημα του εμφανίζει την επιλογή «Ανέβασμα Βαθμολογίας» για να ανεβάσει &lt;br/&gt;&lt;br&gt;την βαθμολογία του γραπτού για τον μαθητή.&lt;br/&gt;&lt;br&gt;9. Εισάγει τον βαθμό του μαθητή στο πεδίο ‘Βαθμός’ και επιλέγει τον τύπο βαθμού, &lt;br/&gt;&lt;br&gt;όπως πχ στα 100, στα 20, στα 10 ανάλογα το εκάστοτε διαγώνισμα.&lt;br/&gt;&lt;br&gt;10. Συνεχίζει την ίδια διαδικασία των βημάτων 6-10 για όλους τους μαθητές της &lt;br/&gt;&lt;br&gt;τάξης και το σύστημα αποθηκεύει τις αλλαγές. &lt;br/&gt;&lt;br&gt;11. Ο καθηγητής επιλέγει ‘Αποστολή βαθμολογιών στους μαθητές’, για να σταλθούν &lt;br/&gt;&lt;br&gt;οι βαθμολογίες και τα γραπτά των μαθητών&lt;br/&gt;&lt;br&gt;12. Το σύστημα αποστέλλει αυτόματα τους βαθμούς στους μαθητές μέσω της &lt;br/&gt;&lt;br&gt;πλατφόρμας της εφαρμογής.&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-510" y="120" width="480" height="550" as="geometry" />
         </mxCell>
         <mxCell id="k5DyvnG_jxrRPJMY_Sv5-21" value="displayStudents()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="600" y="320" width="120" height="30" as="geometry" />
@@ -230,25 +227,25 @@
         <mxCell id="ZeKZ5Fx1t91tmdT_uCV8-18" value="alternative" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" parent="1" vertex="1">
           <mxGeometry x="50" y="440" width="1360" height="570" as="geometry" />
         </mxCell>
-        <mxCell id="WCg6kUV6F2WPvROAODDj-1" value=":Teacher starting screen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WCg6kUV6F2WPvROAODDj-1" value=":Teacher starting screen" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="270" y="60" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WCg6kUV6F2WPvROAODDj-2" value=": List of&amp;nbsp; courses screen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WCg6kUV6F2WPvROAODDj-2" value=": List of&amp;nbsp; courses screen" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="490" y="60" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WCg6kUV6F2WPvROAODDj-3" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;: List of student&amp;nbsp; screen&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WCg6kUV6F2WPvROAODDj-3" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;: List of student&amp;nbsp; screen&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="725" y="60" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WCg6kUV6F2WPvROAODDj-4" value=": Form screen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WCg6kUV6F2WPvROAODDj-4" value=": Form screen" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="910" y="50" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WCg6kUV6F2WPvROAODDj-5" value=":Degree" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WCg6kUV6F2WPvROAODDj-5" value=":Degree" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1090" y="50" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WCg6kUV6F2WPvROAODDj-6" value=":File" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WCg6kUV6F2WPvROAODDj-6" value=":File" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="980" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WCg6kUV6F2WPvROAODDj-7" value=":Student" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WCg6kUV6F2WPvROAODDj-7" value=":Student" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1280" y="520" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
